@@ -1,0 +1,10 @@
+receipt-vision/
+├── requirements.txt
+├── config.py
+├── src/
+│   ├── __init__.py
+│   ├── image_processor.py
+│   ├── ocr_handler.py
+│   ├── receipt_parser.py
+│   └── main.py
+└── README.md 

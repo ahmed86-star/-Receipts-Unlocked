@@ -1,5 +1,3 @@
-# NeatReceipts AI
-
 <div align="center">
 
 # 🚀 Receipts Unlocked
